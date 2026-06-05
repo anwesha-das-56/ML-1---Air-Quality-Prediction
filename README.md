@@ -3,7 +3,7 @@ Air Quality Prediction using Meta Prophet
 # AQI Forecasting with Prophet
 
 Time series forecasting of Air Quality Index (AQI) 
-for Ahmedabad using Facebook Prophet.
+for Ahmedabad using Meta Prophet.
 
 ## Dataset
 - 26 Indian cities, daily AQI reading
