@@ -18,9 +18,9 @@ for Ahmedabad using Meta Prophet.
 ## Results
 | Metric | Score |
 |--------|-------|
-| MAE    | 0.81  |
-| RMSE   | 0.95  |
-| R²     | 0.00  |
+| MAE    | 0.77  |
+| RMSE   | 0.92  |
+| R²     | 0.06  |
 
 ## Usage
 1. Install dependencies
